@@ -76,11 +76,7 @@
 <symbol id="icon-email" viewBox="0 0 32 32">
 <path d="M26.667 5.333h-21.333c-1.467 0-2.652 1.2-2.652 2.667l-0.014 16c0 1.467 1.2 2.667 2.667 2.667h21.333c1.467 0 2.667-1.2 2.667-2.667v-16c0-1.467-1.2-2.667-2.667-2.667zM26.133 11.001l-9.426 5.892c-0.201 0.126-0.446 0.2-0.708 0.2s-0.506-0.075-0.713-0.204l0.006 0.003-9.426-5.892c-0.336-0.201-0.557-0.562-0.557-0.975 0-0.625 0.507-1.132 1.132-1.132 0.233 0 0.449 0.070 0.629 0.19l-0.004-0.003 8.933 5.586 8.933-5.588c0.176-0.118 0.392-0.188 0.624-0.188 0.625 0 1.132 0.507 1.132 1.132 0 0.413-0.221 0.775-0.552 0.972l-0.005 0.003z"></path>
 </symbol>
-<symbol id="icon-checkbox-active-blue" viewBox="0 0 32 32">
-<path fill="#2196f3" style="fill: var(--color1, #2196f3)" d="M4 1h24c2.209 0 4 1.791 4 4v22c0 2.209-1.791 4-4 4h-24c-2.209 0-4-1.791-4-4v-22c0-2.209 1.791-4 4-4z"></path>
-<path fill="#fff" style="fill: var(--color2, #fff); stroke: var(--color2, #fff)" stroke="#fff" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.4" d="M7.914 16.504l-0.138-0.132-0.138 0.13-1.928 1.828 0.152 0.146 7.13 6.8 0.138-0.132 15.16-14.462-0.152-0.144-1.902-1.814-0.138 0.132-13.106 12.492-5.078-4.844z"></path>
-</symbol>
-<symbol id="icon-checkbox-active" viewBox="0 0 42 32">
+<symbol id="icon-check" viewBox="0 0 42 32">
 <path fill="#fff" style="fill: var(--color1, #fff); stroke: var(--color1, #fff)" stroke="#fff" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.64" d="M6.262 15.206l-0.221-0.211-0.221 0.208-3.085 2.925 0.243 0.234 11.408 10.88 0.221-0.211 24.256-23.139-0.243-0.23-3.043-2.902-0.221 0.211-20.97 19.987-8.125-7.75z"></path>
 </symbol>
 <symbol id="icon-send" viewBox="0 0 32 32">
