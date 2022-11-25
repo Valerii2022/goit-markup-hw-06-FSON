@@ -966,11 +966,13 @@ border-width: 1px;
   transition: border 250ms cubic-bezier(0.4, 0, 0.2, 1), background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
   display: inline-block;
-  width: 15px;
+  width: 16px;
   height: 15px;
 
   border: 2px solid var(--secondary-text-color);
   border-radius: 2px;
+
+  background-color: transparent;
 }
 
 .form-checkbox:checked+.checkbox-icon {
