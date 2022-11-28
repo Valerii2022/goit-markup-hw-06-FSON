@@ -975,6 +975,10 @@ border-width: 1px;
   background-color: transparent;
 }
 
+.form-checkbox:focus+.checkbox-icon {
+  border: 2px solid var(--accent-text-color);
+}
+
 .form-checkbox:checked+.checkbox-icon {
   border-color: transparent;
   background-color: var(--accent-text-color);
